@@ -54,7 +54,7 @@ export default function LoginPage() {
           priority
         />
       </div>
-      <div className="absolute inset-0 bg-black opacity-0 z-10"></div>
+      <div className="absolute inset-0 bg-black opacity-50 z-10"></div>
 
 
       {/* Left side - Branding and text */}
